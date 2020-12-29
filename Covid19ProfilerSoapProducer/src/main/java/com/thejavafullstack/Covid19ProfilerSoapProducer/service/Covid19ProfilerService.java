@@ -8,7 +8,7 @@ import javax.jws.WebResult;
 import javax.jws.WebService;
 import java.util.List;
 
-@WebService(name="Covid19Profiler",
+@WebService(name="Covid19ProfilerService",
         targetNamespace="http://www.thejavafullstack.com")
 public interface Covid19ProfilerService {
 

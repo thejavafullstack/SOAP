@@ -8,7 +8,7 @@ import javax.jws.WebResult;
 import javax.jws.WebService;
 import java.util.List;
 
-@WebService(name="Covid19Profiler",
+@WebService(name="Covid19ProfilerService",
         endpointInterface="com.thejavafullstack.Covid19ProfilerSoapProducer.service.Covid19ProfilerService",
         portName="Covid19ProfilerPort",
         serviceName="Covid19ProfilerService",
